@@ -1,1 +1,2 @@
-# PROV2-C22-ACT-PROF-TERMINADA
+# PRO-C22
+estructura alámbrica para c22 
